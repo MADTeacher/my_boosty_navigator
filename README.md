@@ -53,14 +53,14 @@
 - 🔵 [Прототип (Prototype)](https://boosty.to/madteacher/posts/09c05be1-8bd9-47dd-a829-94502bd890e8?share=post_link)
 - 🔵 [Одиночка (Singleton)](https://boosty.to/madteacher/posts/4d54d5bb-f718-41d3-9ff9-1c14ea3dfde9?share=post_link)
 
-### Структурные паттерны проектирования [coming soon] [видео + код]
-- 🔵 [Адаптер (Adapter)]()
-- 🔵 [Мост (Bridge)]()
-- 🔵 [Компоновщик (Composite)]()
-- 🔵 [Декоратор (Decorator)]()
-- 🔵 [Фасад (Facade)]()
-- 🔵 [Приспособленец (Flyweight)]()
-- 🔵 [Заместитель (Proxy)]()
+### Структурные паттерны проектирования [видео + код]
+- 🔵 [Адаптер (Adapter)](https://boosty.to/madteacher/posts/d23ded97-d10a-4c0d-bdbf-9c4ec027aa2a?share=post_link)
+- 🔵 [Мост (Bridge)](https://boosty.to/madteacher/posts/3c79d126-749c-446f-83a6-8d4d99e9bafb?share=post_link)
+- 🔵 [Компоновщик (Composite)](https://boosty.to/madteacher/posts/d38ca258-517f-4cd5-923e-d8b221c3c03b?share=post_link)
+- 🔵 [Декоратор (Decorator)](https://boosty.to/madteacher/posts/28c59876-a10a-499e-ba2e-e8ef8d6d8da5?share=post_link)
+- 🔵 [Фасад (Facade)](https://boosty.to/madteacher/posts/6f7ce9dc-6e7a-4bb6-a563-98c49aa70444?share=post_link)
+- 🔵 [Приспособленец (Flyweight)](https://boosty.to/madteacher/posts/0d2a9f8e-7bd6-4cfe-b537-94c0d487e5d7?share=post_link)
+- 🔵 [Заместитель (Proxy)](https://boosty.to/madteacher/posts/90914f5d-7999-47f1-877e-2a0889cff602?share=post_link)
 
 ### Поведенческие паттерны проектирования [coming soon] [видео + код]
 - 🔵 [Цепочка Обязанностей (Chain of Responsibilities)]()
