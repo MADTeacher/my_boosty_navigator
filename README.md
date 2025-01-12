@@ -63,16 +63,16 @@
 - 🔵 [Заместитель (Proxy)](https://boosty.to/madteacher/posts/90914f5d-7999-47f1-877e-2a0889cff602?share=post_link)
 
 ### Поведенческие паттерны проектирования [coming soon] [видео + код]
-- 🔵 [Цепочка Обязанностей (Chain of Responsibilities)]()
-- 🔵 [Команда (Command)]()
-- 🔵 [Итератор (Iterator)]()
-- 🔵 [Посредник (Mediator)]()
-- 🔵 [Хранитель (Memento)]()
-- 🔵 [Наблюдатель (Observer)]()
-- 🔵 [Состояние (State)]()
-- 🔵 [Стратегия (Strategy)]()
-- 🔵 [Шаблонный Метод (Template Method)]()
-- 🔵 [Посетитель (Visitor)]()
+- 🔵 [Цепочка Обязанностей (Chain of Responsibilities)](https://boosty.to/madteacher/posts/f66bbdae-b147-4ac0-98de-17ded6cd5ef7?share=post_link)
+- 🔵 [Команда (Command)](https://boosty.to/madteacher/posts/7a5c16a8-4b8e-4d30-a8a4-a898e1afe8cb?share=post_link)
+- 🔵 [Итератор (Iterator)](https://boosty.to/madteacher/posts/68a569ce-166b-4248-badc-a047abcabfbf?share=post_link)
+- 🔵 [Посредник (Mediator)](https://boosty.to/madteacher/posts/9d9696f0-0a3d-4451-aeeb-ccdce3795f50?share=post_link)
+- 🔵 [Хранитель (Memento)](https://boosty.to/madteacher/posts/166c0e53-6267-4727-ae6f-32d9261d9c27?share=post_link)
+- 🔵 [Наблюдатель (Observer)](https://boosty.to/madteacher/posts/c34de079-fa0c-483f-bdd5-a7534680661b?share=post_link)
+- 🔵 [Состояние (State)](https://boosty.to/madteacher/posts/d80e60c7-67b2-469c-a1ff-b407361919b1?share=post_link)
+- 🔵 [Стратегия (Strategy)](https://boosty.to/madteacher/posts/4c4e60f7-1c7a-4880-bf6c-2243e466f1ac?share=post_link)
+- 🔵 [Шаблонный Метод (Template Method)](https://boosty.to/madteacher/posts/37c4ce87-f744-4ea8-9982-d3ca0c99b021?share=post_link)
+- 🔵 [Посетитель (Visitor)](https://boosty.to/madteacher/posts/da3ea524-b5a2-422b-b1a6-747ad9114dca?share=success_publish_link)
 
 ## Записи IT Toxic News 
 [coming soon]
