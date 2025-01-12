@@ -62,7 +62,7 @@
 - 🔵 [Приспособленец (Flyweight)](https://boosty.to/madteacher/posts/0d2a9f8e-7bd6-4cfe-b537-94c0d487e5d7?share=post_link)
 - 🔵 [Заместитель (Proxy)](https://boosty.to/madteacher/posts/90914f5d-7999-47f1-877e-2a0889cff602?share=post_link)
 
-### Поведенческие паттерны проектирования [coming soon] [видео + код]
+### Поведенческие паттерны проектирования [видео + код]
 - 🔵 [Цепочка Обязанностей (Chain of Responsibilities)](https://boosty.to/madteacher/posts/f66bbdae-b147-4ac0-98de-17ded6cd5ef7?share=post_link)
 - 🔵 [Команда (Command)](https://boosty.to/madteacher/posts/7a5c16a8-4b8e-4d30-a8a4-a898e1afe8cb?share=post_link)
 - 🔵 [Итератор (Iterator)](https://boosty.to/madteacher/posts/68a569ce-166b-4248-badc-a047abcabfbf?share=post_link)
