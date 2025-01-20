@@ -44,6 +44,10 @@
   - [Проект для 5-й главы: игра "Крестики-Нолики" v.3](https://boosty.to/madteacher/posts/397702d2-5076-49d4-9e5e-641773fe781f?share=post_link)
   - [Проект для 6-й главы: игра "Крестики-Нолики" v.4](https://boosty.to/madteacher/posts/8ca85606-6c4b-415e-837f-da8773c59515?share=post_link)
 
+- 🟢 **Проект к курсу "Основы разработки на Dart: падаван"**
+  - [Игра "Тетрис" v.0](https://boosty.to/madteacher/posts/6667c002-7d3c-4751-9e72-8350dc1f4460?share=post_link)
+  - [Игра "Тетрис" v.1](https://boosty.to/madteacher/posts/92573685-09cc-4f48-87d2-cf935a920b48?share=post_link)
+  - [Игра "Тетрис" v.2](https://boosty.to/madteacher/posts/3efed73f-44b7-407e-acec-5409963c53bb?share=post_link)
 
 ## GoF Design Patterns на Dart
 ### Порождающие паттерны проектирования [видео + код]
