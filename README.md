@@ -49,6 +49,8 @@
   - [Игра "Тетрис" v.1](https://boosty.to/madteacher/posts/92573685-09cc-4f48-87d2-cf935a920b48?share=post_link)
   - [Игра "Тетрис" v.2](https://boosty.to/madteacher/posts/3efed73f-44b7-407e-acec-5409963c53bb?share=post_link)
 
+- ⚫ [Макросы в Dart отменены... Что дальше?](https://boosty.to/madteacher/posts/2331fb8f-7e2d-4ac8-b4c6-c21183a0a929?share=post_link)
+
 ## GoF Design Patterns на Dart
 ### Порождающие паттерны проектирования [видео + код]
 - 🔵 [Фабричный метод (Factory Method)](https://boosty.to/madteacher/posts/2ae27ab7-82e5-4917-9de1-4f76756bdab5?share=post_link)
@@ -82,7 +84,8 @@
 [coming soon]
 
 ## Записи подкастов/интервью
-[coming soon]
+- ### 🟢 MADTalks
+  - [Никита Синявин | О BDUI, open source разработке, настоящем и будущем IT](https://boosty.to/madteacher/posts/5df1f9b9-d07e-4249-b6da-eea81027854f?share=post_link)
 
 ## Статьи (RU, EN) [pdf или ссылка]
 [coming soon]
