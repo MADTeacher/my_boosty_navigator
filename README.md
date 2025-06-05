@@ -18,7 +18,7 @@
 - **[Книги и видео по Dart](#книги-и-видео-по-dart)⚫🟢🟡🔵**
 - **[GoF Design Patterns на Dart](#gof-design-patterns-на-dart) 🔵**
 - **[Записи IT Toxic News](#записи-it-toxic-news) ⚫🟢🟡**
-- **[Записи подкастов/интервью и т.д.](#записи-подкастовинтервью) ⚫🟢🟡🔵🔴**
+- **[Записи хоумвидео с разбором внутрянки Dart, подкастов/интервью и т.д.](#записи-подкастовинтервью) ⚫🟢🟡🔵🔴**
 - **[Статьи (RU, EN) [pdf или ссылка]](#статьи-ru-en-pdf-или-ссылка) ⚫🟢🟡🔵🔴**
 
 
@@ -26,7 +26,7 @@
 [coming soon]
 
 ## Книги и видео по Dart
-- 🔵 **[Актуальная версия книги "Основы Dart"](https://boosty.to/madteacher/posts/6371babe-6973-4d9b-930b-11d7754c9d46?share=post_link)**
+- 🔵 **[Актуальная версия книги "Основы Dart"](https://boosty.to/madteacher/posts/4dc87097-41c2-4cf8-bb95-09a6a1cf6020?share=post_link)**
 
 - ⚫ **[Актуальная версия книги "Основы Dart: Community edition"](https://boosty.to/madteacher/posts/57edff9c-e5d8-42ba-a9c0-5a4bc257046a?share=post_link)**
 
